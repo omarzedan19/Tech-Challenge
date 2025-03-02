@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Output of npm
+npm-debug.log
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+*.swp
